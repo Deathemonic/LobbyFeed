@@ -1,6 +1,26 @@
 {
   "BannerDBs": [
     {
+      "BannerOrder": 1,
+      "StartDate": "2026-11-10T11:10:00",
+      "EndDate": "2026-11-24T10:49:59",
+      "Url": "https://ba.dn.nexoncdn.co.kr/p6tei/",
+      "FileName": "Scenario74.png",
+      "LinkedLobbyBannerId": 860,
+      "BannerEventTagPosition": 1
+    },
+    {
+      "BannerOrder": 1,
+      "StartDate": "2026-11-17T11:00:00",
+      "EndDate": "2026-11-24T10:59:59",
+      "Url": "https://ba.dn.nexoncdn.co.kr/p6tei/",
+      "FileName": "Recruitment492.png",
+      "LinkedLobbyBannerId": 738,
+      "BannerType": 1,
+      "BannerDisplayType": 1,
+      "BannerEventTagPosition": -1
+    },
+    {
       "BannerOrder": 2,
       "StartDate": "2026-11-17T11:00:00",
       "EndDate": "2026-11-24T10:49:59",
@@ -8,6 +28,17 @@
       "FileName": "Student550.png",
       "LinkedLobbyBannerId": 738,
       "BannerType": 1,
+      "BannerEventTagPosition": -1
+    },
+    {
+      "BannerOrder": 2,
+      "StartDate": "2026-11-17T11:00:00",
+      "EndDate": "2026-11-24T10:59:59",
+      "Url": "https://ba.dn.nexoncdn.co.kr/p6tei/",
+      "FileName": "Recruitment493.png",
+      "LinkedLobbyBannerId": 739,
+      "BannerType": 1,
+      "BannerDisplayType": 1,
       "BannerEventTagPosition": -1
     },
     {
@@ -21,6 +52,17 @@
       "BannerEventTagPosition": -1
     },
     {
+      "BannerOrder": 3,
+      "StartDate": "2026-11-17T11:00:00",
+      "EndDate": "2026-11-24T10:59:59",
+      "Url": "https://ba.dn.nexoncdn.co.kr/p6tei/",
+      "FileName": "Recruitment494.png",
+      "LinkedLobbyBannerId": 740,
+      "BannerType": 1,
+      "BannerDisplayType": 1,
+      "BannerEventTagPosition": -1
+    },
+    {
       "BannerOrder": 4,
       "StartDate": "2026-11-17T11:00:00",
       "EndDate": "2026-11-24T10:49:59",
@@ -28,6 +70,17 @@
       "FileName": "Student552.png",
       "LinkedLobbyBannerId": 740,
       "BannerType": 1,
+      "BannerEventTagPosition": -1
+    },
+    {
+      "BannerOrder": 4,
+      "StartDate": "2026-11-17T11:00:00",
+      "EndDate": "2026-11-24T10:59:59",
+      "Url": "https://ba.dn.nexoncdn.co.kr/p6tei/",
+      "FileName": "Recruitment495.png",
+      "LinkedLobbyBannerId": 741,
+      "BannerType": 1,
+      "BannerDisplayType": 1,
       "BannerEventTagPosition": -1
     },
     {
@@ -39,6 +92,15 @@
       "LinkedLobbyBannerId": 741,
       "BannerType": 1,
       "BannerEventTagPosition": -1
+    },
+    {
+      "BannerOrder": 6,
+      "StartDate": "2026-11-17T11:00:00",
+      "EndDate": "2026-11-24T03:49:59",
+      "Url": "https://ba.dn.nexoncdn.co.kr/p6tei/",
+      "FileName": "Raid04E.png",
+      "BannerType": 4,
+      "BannerEventTagPosition": 1
     }
   ]
 }
