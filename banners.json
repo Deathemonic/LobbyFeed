@@ -1,0 +1,44 @@
+{
+  "BannerDBs": [
+    {
+      "BannerOrder": 2,
+      "StartDate": "2026-11-17T11:00:00",
+      "EndDate": "2026-11-24T10:49:59",
+      "Url": "https://ba.dn.nexoncdn.co.kr/p6tei/",
+      "FileName": "Student550.png",
+      "LinkedLobbyBannerId": 738,
+      "BannerType": 1,
+      "BannerEventTagPosition": -1
+    },
+    {
+      "BannerOrder": 3,
+      "StartDate": "2026-11-17T11:00:00",
+      "EndDate": "2026-11-24T10:49:59",
+      "Url": "https://ba.dn.nexoncdn.co.kr/p6tei/",
+      "FileName": "Student551.png",
+      "LinkedLobbyBannerId": 739,
+      "BannerType": 1,
+      "BannerEventTagPosition": -1
+    },
+    {
+      "BannerOrder": 4,
+      "StartDate": "2026-11-17T11:00:00",
+      "EndDate": "2026-11-24T10:49:59",
+      "Url": "https://ba.dn.nexoncdn.co.kr/p6tei/",
+      "FileName": "Student552.png",
+      "LinkedLobbyBannerId": 740,
+      "BannerType": 1,
+      "BannerEventTagPosition": -1
+    },
+    {
+      "BannerOrder": 5,
+      "StartDate": "2026-11-17T11:00:00",
+      "EndDate": "2026-11-24T10:49:59",
+      "Url": "https://ba.dn.nexoncdn.co.kr/p6tei/",
+      "FileName": "Student553.png",
+      "LinkedLobbyBannerId": 741,
+      "BannerType": 1,
+      "BannerEventTagPosition": -1
+    }
+  ]
+}
